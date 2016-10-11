@@ -1,0 +1,107 @@
+.navbar-inverse {
+  background: #5d5d3c;
+  color: #ffffff;
+  text-align: center;  
+}
+.nav li {
+     padding: 0px 55px 0px 55px; 
+     align-content: center;
+     float:left;
+     font-size: 20px;
+     font-family: inherit;
+     font-style: italic;   
+     text-decoration-color: black;
+}
+.menu-item{
+ padding: 10px 10px 10px 25px; 
+}
+.jumbotron {
+    font-family: 'Tangerine', serif;
+    margin-bottom: 0px;
+    background-image: url(../img/homeslider.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px 30px;
+    color: floralwhite;
+    height: 600px;
+    text-align: center;
+   
+}
+#aboutme{
+ text-align: center;
+ font-family: sans-serif;
+ font-style: italic;
+ background:#e0e0d1;
+}
+.myimage{
+    border-radius: 50%;
+  }
+#mywork{
+  font-family: sans-serif;
+ font-style: italic;  
+  
+}
+.mywork-title{
+  background: #7c7c50;  
+  font-weight: bold;
+  height: 120px;
+  width: 80px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%; 
+}	
+#mywork h6{
+   font-weight: bold;
+   font-size: 15px;    
+}
+#resume{
+ font-family: sans-serif;
+ font-style: italic;
+ background:#e0e0d1;
+    
+}
+.resume-title{
+  background: #7c7c50;  
+  font-weight: bold;
+  height: 120px;
+  width: 80px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%; 
+}	
+.resume-button{
+    background: #7c7c50;
+}
+.resume-btn-center{
+   text-align: center;  
+}
+#resume h4{
+   font-weight: bold;
+   font-size: 15px;    
+}
+#resume h5{
+  font-size: 15px;      
+}
+ul.footer-menu {
+ list-style-type: none;    
+}
+.footer-item{
+    padding: 10px 10px 10px 10px;
+    margin: 10px 2px 10px 2px; 
+    background-color: #ebebe0; 
+    border-radius: 50%;
+    float: right;
+}
+.footer-menu {
+    display: inline;
+	padding: 8px;
+    float: left;
+}
+.row-footer{
+    background: #0f0f0f;
+    color: floralwhite;
+    opacity: 0.9;
+}
