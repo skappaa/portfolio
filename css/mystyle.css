@@ -134,9 +134,8 @@ ul.footer-menu {
 #getintouch{
   font-family: Roboto Slab, sans-serif;
   font-size: 20px;
-  background: #b3b3cc;
-  
-  }
+ background: -webkit-radial-gradient(center, ellipse cover, rgba(224,223,245,1) -1%,rgba(224,223,245,1) 0%,rgba(231,228,246,1) 2%,rgba(245,244,252,1) 76%,rgba(231,228,246,1) 96%,rgba(231,228,246,1) 96%,rgba(231,228,246,1) 100%,rgba(236,233,247,1) 100%); 
+ }
 #footer{
    font-family: Roboto Slab, sans-serif;
   font-size: 15px;
